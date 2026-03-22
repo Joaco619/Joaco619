@@ -30,7 +30,7 @@ Disfruto convertir ideas en cosas funcionales, priorizando la experiencia del us
 ```js
 const joaco = {
   role: "Frontend Developer",
-  location: "Montevideo, Uruguay 🇺🇾",
+  location: "Montevideo, Uruguay",
   experience: "2+ años",
   focus: ["UI/UX", "Arquitectura Frontend", "Buenas prácticas"],
   currentlyLearning: ["JavaScript avanzado", "Optimización de performance"],
