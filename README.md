@@ -66,7 +66,7 @@ Disfruto convertir ideas en productos funcionales, priorizando claridad visual y
 
 ## 💻 Perfil Técnico
 
-```ts
+```js
 const joaco = {
   role: "Frontend Developer",
   location: "Montevideo, Uruguay 🇺🇾",
