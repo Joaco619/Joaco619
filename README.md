@@ -1,10 +1,9 @@
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Desarrollador+Frontend;Creando+interfaces+modernas;Obsesionado+con+la+experiencia+de+usuario;Codeando+todos+los+días+desde+Uruguay)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1000&color=A78BFA&center=true&vCenter=true&width=650&lines=Semi+Full+Stack+Developer;Creating+modern+interfaces;Obsessed+with+user+experience;Coding+every+day+from+Uruguay)](https://git.io/typing-svg)
 <br/>
 
 [![Portfolio](https://img.shields.io/badge/🌐_Portfolio-0d1117?style=for-the-badge&logoColor=white)](https://joaco619.github.io/portafolio-dev/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joaquin-sposato-7464873b1/)
 [![Gmail](https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:joaquinsposatogarcia656@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Joaco619)
 
@@ -12,36 +11,40 @@
 
 ---
 
-## 👨‍💻 Sobre mí
+## 👨‍💻 About Me
 
-Soy **Joaquin Sposato**, desarrollador frontend con más de **2 años de experiencia construyendo proyectos reales y personales**.
+I am **Joaquin Sposato**, a semi full stack developer with over **2 years of experience building real and personal projects**.
 
-Me enfoco en:
-- Interfaces limpias y bien estructuradas
-- Código limpio
-- Experiencias modernas y fluidas
+I focus on:
+- Clean and well-structured interfaces
+- Clean code
+- Modern and fluid experiences
 
-Disfruto convertir ideas en cosas funcionales, priorizando la experiencia del usuario.
+I enjoy turning ideas into functional things, prioritizing the user experience.
 
 ---
 
-## 💻 Perfil Técnico
+## 💻 Technical Profile
 
 ```js
 const joaco = {
-  role: "Frontend Developer",
+  role: "Semi Full Stack Developer",
   location: "Montevideo, Uruguay",
-  experience: "2+ años",
-  focus: ["UI/UX", "Arquitectura Frontend", "Buenas prácticas"],
-  currentlyLearning: ["JavaScript avanzado", "Optimización de performance"],
-  mindset: "Aprender → Practicar → Mejorar → Repetir"
+  experience: "2+ years",
+  focus: ["UI/UX", "Frontend Architecture"],
+  currentlyLearning: ["Advanced JavaScript", "Performance optimization"],
+  mindset: "Learn → Practice → Improve → Repeat"
 };
 ```
 
 ---
 
+## Stats
+
 <div align="center">
 
-![Visitas](https://komarev.com/ghpvc/?username=Joaco619&color=A78BFA&style=for-the-badge&label=VISITAS+AL+PERFIL)
+![Profile Views](https://komarev.com/ghpvc/?username=Joaco619&color=A78BFA&style=flat-square&label=Profile+Views)
+![Followers](https://img.shields.io/github/followers/Joaco619?label=Followers&style=flat-square&color=A78BFA&logo=github)
+![Stars](https://img.shields.io/github/stars/Joaco619?label=Stars&style=flat-square&color=FFFF00&logo=github)
 
 </div>
